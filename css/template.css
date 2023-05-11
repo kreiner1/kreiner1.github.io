@@ -59,11 +59,6 @@ body {
 .flipped {
     transform: rotateY(180deg);
 }
-/* Start of my design */
-.front img {
-    width: 100%;
-}
-
 
 
 /* Media Query for Mobile */
