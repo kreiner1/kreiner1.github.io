@@ -44,11 +44,11 @@ body {
 }
 
 .front {
-    background: coral;
+    background: rgb(255, 158, 242);
 }
 
 .back {
-    background: cornflowerblue;
+    background: rgb(82, 142, 255);
     /* flip it default   */
     transform: rotateY(180deg);
 }
